@@ -1,0 +1,8 @@
+﻿  project 3.cpp
+C:\Users\juanf\source\repos\project 3\project 3\Pokedex.cpp(95,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\juanf\source\repos\project 3\project 3\Pokedex.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\juanf\source\repos\project 3\project 3\Pokedex.cpp(140,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\juanf\source\repos\project 3\project 3\project 3.cpp(352,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\juanf\source\repos\project 3\project 3\project 3.cpp(499,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\juanf\source\repos\project 3\project 3\project 3.cpp(377,73): warning C4101: 'pokemonOption': unreferenced local variable
+  project 3.vcxproj -> C:\Users\juanf\source\repos\project 3\Debug\project 3.exe
